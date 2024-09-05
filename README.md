@@ -1,1 +1,1 @@
-# TrainerBuddy---Web
+# TrainerBuddy-Web
